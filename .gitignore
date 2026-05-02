@@ -1,0 +1,15 @@
+# Docker temporary files
+.dockerignore
+*.log
+
+# ROS workspace
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Cloned repositories
+ros2_ws/src/DynamixelSDK/
+ros2_ws/src/turtlebot3_msgs/
+ros2_ws/src/turtlebot3/
+ros2_ws/src/turtlebot3_simulations/
+
