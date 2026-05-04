@@ -51,7 +51,6 @@ RUN git clone -b humble https://github.com/ROBOTIS-GIT/open_manipulator.git && \
     git clone -b humble https://github.com/ROBOTIS-GIT/DynamixelSDK.git && \
     git clone -b humble https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git && \
     git clone -b humble https://github.com/ROBOTIS-GIT/turtlebot3.git && \
-    git clone -b humble https://github.com/UniversalRobots/Universal_Robots_ROS2_Description.git && \
     git clone -b humble https://github.com/ROBOTIS-GIT/turtlebot3_manipulation.git
 
 # Build workspace
